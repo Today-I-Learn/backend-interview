@@ -1,7 +1,3 @@
-
-
-
-
 ### 운영 및 기여 방법
 - 해당 카테고리에 추가로 다루어야 하는 질문들이 있다면 이슈로 등록해주세요.
 - 미답변 질문들에 대해서는 누구나 답변을 작성해 기여할 수 있습니다. 
@@ -13,3 +9,14 @@
     - ex. `docs: 프로세스와 쓰레드의 차이`
   - PR 제목은 질문번호와 질문의 본문을 이용해서 작성합니다.
     - ex. `#1 프로세스와 쓰레드의 차이점에 대해 설명해주세요`
+
+<br>
+
+### 카테고리별 인터뷰 예상 질문 모음
+
+- [운영체제](https://github.com/Today-I-Learn/backend-interview/tree/main/OS)
+- [데이터베이스](https://github.com/Today-I-Learn/backend-interview/tree/main/DB)
+<!-- - [네트워크]()
+- [자료구조]()
+- [Java]()
+- [Spring Framework]() -->
